@@ -1,6 +1,7 @@
+// Autor: Daniel Benjamin Perez Morales
+// GitHub: https://github.com/DanielPerezMoralesDev13
+// Correo electrónico: danielperezdev@proton.me 
 #include <raylib.h>
-
-
 
 int main(void){
     const int ancho_ventana = 800;
